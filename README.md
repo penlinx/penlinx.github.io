@@ -4,4 +4,4 @@ User page
 https://github.com/penlinx/
 
 Github pages homepage
-https://penlinx.gitub.io/
+https://penlinx.github.io/
